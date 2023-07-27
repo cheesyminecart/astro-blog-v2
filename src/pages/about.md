@@ -20,7 +20,7 @@ testing theme is written in vanilla JavaScript (+ TypeScript for type checking) 
 
 ## Features
 
-Here are certain features of this site.
+What more can you expect from my site?
 
 - fully responsive and accessible
 - SEO-friendly
